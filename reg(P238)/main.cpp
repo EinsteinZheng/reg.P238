@@ -13,7 +13,6 @@ using namespace std;
 
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
     union accounta {
         char id[18];
         long long qq;
